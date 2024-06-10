@@ -2,7 +2,7 @@
   --app-background: rgb(30, 30, 30);
   --app-foreground: rgb(51, 51, 51);
 
-  --aside-sections-background: rgb(51, 51, 51);
+  --aside-sections-background: rgb(255, 51, 51, 0.5);
   --aside-sections-border: transparent;
 
   --aside-bar-background: rgb(37, 37, 38);
